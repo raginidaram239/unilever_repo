@@ -1,0 +1,10 @@
+faiss-cpu==1.8.0.post1
+numpy==1.26.4
+openai==0.28.0
+streamlit==1.38.0
+indic-transliteration==2.3.61  # Add the specific version if necessary
+
+# Additional required libraries
+Flask==3.0.3
+pandas==2.2.2  # Compatible version
+torch==2.4.1   # Updated version
